@@ -1,9 +1,11 @@
 # jemdoc: menu{MENU}{index.html}
+# jemdoc: addpackage{hologo}
 ==Jed Webster
 
 ~~~
-{}{img_left}{static/photo.jpeg}{alt text}{250}{200}{}
-Thanks for visiting!
+{}{img_left}{static/photo.jpeg}{}{250}{200}{}
+Welcome to my page! I am a recent graduate with an appetite for all things involving mathematics, data, and software.\n
+This is a space for me to experiment and showcase some of my personal projects for the general purpose of amusement.
 ~~~
 
 == Snapshot
@@ -13,6 +15,12 @@ Thanks for visiting!
     - M.S. Applied Mathematics (2021)
     - B.S. Applied Physics and Mathematics (2020)
 
-=== Interests
+=== Software (in order of proficiency)
+. MATLAB (3 years)
+. latex (3 years)
+. Python (2 years)
+. SQL (1 year)
+. Java (1 year)
 
-== Highlight
+== Highlights
+Project stuff 
